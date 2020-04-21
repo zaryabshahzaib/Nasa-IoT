@@ -1,0 +1,4 @@
+pickleshare==0.7.5
+cloudpickle==1.2.2
+pandas==0.25.1
+pandas-ml==0.6.1
